@@ -35,7 +35,7 @@ As this project is community-driven, it'd be really helpful if you comment on th
 <a href="https://www.buymeacoffee.com/swap" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 <a href="https://www.patreon.com/bePatron?u=7999565" target="_blank"><img src="https://c5.patreon.com/external/logo/become_a_patron_button.png" alt="Become a Patron!" height="41"></a>
 
-Please consider donating to cover up our hosting costs. 🙏
+Please consider donating to cover our hosting costs. 🙏
 
 ## Development
 
@@ -47,7 +47,7 @@ Contribute to swag-for-dev using a fully featured online development environment
 
 ### Local & Docker setup
 
-See complete walkthrough in the [Contributing guide](./CONTRIBUTING.md#lets-start-hacking).
+See the complete walkthrough in the [Contributing guide](./CONTRIBUTING.md#lets-start-hacking).
 
 ## License
 
